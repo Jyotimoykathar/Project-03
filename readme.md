@@ -22,8 +22,8 @@ This the third mini-project among the 15 Ineuron-projects.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com)
-- Live Site URL: [netlify.app](https://)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-03)
+- Live Site URL: [netlify.app](https://project-03-justice.netlify.app/)
 
 ## My Process
 
