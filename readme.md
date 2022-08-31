@@ -9,6 +9,7 @@ This the third mini-project among the 15 Ineuron-projects.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Time required](#time-required)
   - [What I learned](#continues-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -32,6 +33,10 @@ This the third mini-project among the 15 Ineuron-projects.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox Css
+
+### Time required
+
+2 hours
 
 ### What I learned
 
